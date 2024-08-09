@@ -55,6 +55,113 @@ flutter:
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
+    - assets/sounds/001.mp3
+    - assets/sounds/002.mp3
+    - assets/sounds/003.mp3
+    - assets/sounds/004.mp3
+    - assets/sounds/005.mp3
+    - assets/sounds/006.mp3
+    - assets/sounds/007.mp3
+    - assets/sounds/008.mp3
+    - assets/sounds/009.mp3
+    - assets/sounds/010.mp3
+    - assets/sounds/011.mp3
+    - assets/sounds/012.mp3
+    - assets/sounds/013.mp3
+    - assets/sounds/014.mp3
+    - assets/sounds/015.mp3
+    - assets/sounds/016.mp3
+    - assets/sounds/017.mp3
+    - assets/sounds/018.mp3
+    - assets/sounds/019.mp3
+    - assets/sounds/020.mp3
+    - assets/sounds/021.mp3
+    - assets/sounds/022.mp3
+    - assets/sounds/023.mp3
+    - assets/sounds/024.mp3
+    - assets/sounds/025.mp3
+    - assets/sounds/026.mp3
+    - assets/sounds/027.mp3
+    - assets/sounds/028.mp3
+    - assets/sounds/029.mp3
+    - assets/sounds/030.mp3
+    - assets/sounds/031.mp3
+    - assets/sounds/032.mp3
+    - assets/sounds/033.mp3
+    - assets/sounds/034.mp3
+    - assets/sounds/035.mp3
+    - assets/sounds/036.mp3
+    - assets/sounds/037.mp3
+    - assets/sounds/038.mp3
+    - assets/sounds/039.mp3
+    - assets/sounds/040.mp3
+    - assets/sounds/041.mp3
+    - assets/sounds/042.mp3
+    - assets/sounds/043.mp3
+    - assets/sounds/044.mp3
+    - assets/sounds/045.mp3
+    - assets/sounds/046.mp3
+    - assets/sounds/047.mp3
+    - assets/sounds/048.mp3
+    - assets/sounds/049.mp3
+    - assets/sounds/050.mp3
+    - assets/sounds/051.mp3
+    - assets/sounds/052.mp3
+    - assets/sounds/053.mp3
+    - assets/sounds/054.mp3
+    - assets/sounds/055.mp3
+    - assets/sounds/056.mp3
+    - assets/sounds/057.mp3
+    - assets/sounds/058.mp3
+    - assets/sounds/059.mp3
+    - assets/sounds/060.mp3
+    - assets/sounds/061.mp3
+    - assets/sounds/062.mp3
+    - assets/sounds/063.mp3
+    - assets/sounds/064.mp3 
+    - assets/sounds/065.mp3
+    - assets/sounds/066.mp3
+    - assets/sounds/067.mp3
+    - assets/sounds/068.mp3
+    - assets/sounds/069.mp3
+    - assets/sounds/070.mp3
+    - assets/sounds/071.mp3
+    - assets/sounds/072.mp3
+    - assets/sounds/073.mp3
+    - assets/sounds/074.mp3
+    - assets/sounds/075.mp3
+    - assets/sounds/076.mp3
+    - assets/sounds/077.mp3
+    - assets/sounds/078.mp3
+    - assets/sounds/079.mp3
+    - assets/sounds/080.mp3
+    - assets/sounds/081.mp3
+    - assets/sounds/082.mp3
+    - assets/sounds/083.mp3
+    - assets/sounds/084.mp3
+    - assets/sounds/085.mp3
+    - assets/sounds/086.mp3
+    - assets/sounds/087.mp3
+    - assets/sounds/088.mp3
+    - assets/sounds/089.mp3
+    - assets/sounds/090.mp3
+    - assets/sounds/091.mp3
+    - assets/sounds/092.mp3
+    - assets/sounds/093.mp3
+    - assets/sounds/094.mp3
+    - assets/sounds/095.mp3
+    - assets/sounds/096.mp3
+    - assets/sounds/097.mp3
+    - assets/sounds/098.mp3
+    - assets/sounds/099.mp3
+    - assets/sounds/100.mp3
+    - assets/sounds/101.mp3
+    - assets/sounds/102.mp3
+    - assets/sounds/103.mp3
+    - assets/sounds/104.mp3
+    - assets/sounds/105.mp3
+    - assets/sounds/106.mp3
+    - assets/sounds/107.mp3
     - assets/sounds/108.mp3
     - assets/sounds/109.mp3
     - assets/sounds/110.mp3
@@ -62,6 +169,7 @@ flutter:
     - assets/sounds/112.mp3
     - assets/sounds/113.mp3
     - assets/sounds/114.mp3
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see

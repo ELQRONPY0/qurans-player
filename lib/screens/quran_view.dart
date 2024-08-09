@@ -12,22 +12,20 @@ class QuranView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Expanded(
-      child: GestureDetector(
-        onTap: () {
-          quranModel.playSound();
-        },
-        child: Container(
-          height: double.infinity,
-          width: double.infinity,
-          color: quranModel.color,
-          child: Center(
-            child: Text(
-              quranModel.surahName,
-              style: const TextStyle(
-                fontSize: 24,
-                fontWeight: FontWeight.w600,
-              ),
+    return GestureDetector(
+      onTap: () {
+        quranModel.playSound();
+      },
+      child: Container(
+        height: 120,
+        width: double.infinity,
+        color: quranModel.color,
+        child: Center(
+          child: Text(
+            quranModel.surahName,
+            style: const TextStyle(
+              fontSize: 24,
+              fontWeight: FontWeight.w600,
             ),
           ),
         ),
